@@ -2,4 +2,8 @@
 print('hello world')
 print ("deploying java applications")
 print ("production in progress")
+<<<<<<< HEAD
 print ("hello amarin")
+=======
+print ("hello today is a good day")
+>>>>>>> ta2/master
